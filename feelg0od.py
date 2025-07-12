@@ -1,3 +1,5 @@
+pip install mido python-rtmidi
+
 from mido import Message, MidiFile, MidiTrack
 
 # 1. 피보나치 수열 생성 함수
